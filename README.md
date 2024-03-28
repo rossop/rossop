@@ -31,7 +31,7 @@ I've contributed to various publications in engineering design, focusing on prac
 ## 📫 Get In Touch
 
 - GitHub: [rossop](https://www.github.com/rossop)
-- Email: [hi@peterrosso.com](mailto:hi@peterrosso.com)
+- Email: [hi(at)peterrosso.com](mailto:hi(at)peterrosso.com)
 
 I'm always keen to collaborate on projects or discuss technology, engineering, and the paths of innovation. Feel free to reach out for collaboration or conversation!
 
