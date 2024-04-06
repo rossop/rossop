@@ -1,18 +1,18 @@
 # Welcome to Peter Rosso's GitHub 👋
 
-Hello! I'm Peter, an engineer, researcher, and coder passionate about solving complex problems, advancing engineering design, and embracing the challenges of continuous learning. My GitHub is a window into my journey, featuring a mix of projects that span coding challenges, engineering innovations, and machine learning projects.
+Hello! I'm Peter, an engineer, researcher, and coder passionate about solving complex problems, advancing engineering design, and embracing the challenges of continuous learning. My GitHub is a window into my journey, featuring projects spanning coding challenges, engineering innovations, and machine learning projects.
 
 ## 🚀 About Me
 
-- 🎓 Postgraduate Researcher in Engineering Design, exploring innovative solutions and methodologies in the field.
+- 🎓 Postgraduate Researcher in Engineering Design, exploring innovative solutions and methodologies.
 - 💡 Developer of CAD refactoring techniques and a pioneer in characterising CAD smells, aiming to enhance design efficiency and maintainability.
-- 💻 Participant in the [Advent of Code](https://adventofcode.com/), where I challenge my coding skills and share solutions.
+- 💻 Participant in the [Advent of Code](https://adventofcode.com/), where I challenge my coding skills and share solutions. See [
 - 🛠️ Advocate for clean code and software architecture. I am a self-taught programmer who is always striving to improve my practices.
 - 📖 Enthusiast of non-fiction and fantasy literature with a keen interest in the intersections of storytelling, creativity, and technology.
 
 ## 🌟 Highlighted Projects
 
-- **Advent of Code Solutions**: My journey through the Advent of Code, demonstrating my problem-solving approach and coding versatility.
+- **[Advent of Code Solutions](https://github.com/rossop/AdventOfCode/)**: My journey through the Advent of Code, demonstrating my problem-solving approach and coding versatility.
 - **CAD Refactoring and Smells**: I've explored and documented CAD refactoring techniques I've developed, including a comprehensive analysis of CAD smells aimed at improving engineering design processes.
 - **Engineering Research Publications**: Links to my academic work, underscoring contributions to engineering design and software development practices.
 
