@@ -20,10 +20,10 @@ Hello! I'm Peter, an engineer, researcher, and coder passionate about solving co
 
 I've contributed to various publications in engineering design, focusing on practical and theoretical advancements. For a detailed look at my research and publications, check out [my Google Scholar profile](https://scholar.google.co.uk/citations?user=eM_RGJcAAAAJ).
 
-## Talks and Presentations
+## Conferences, Presentations and Talks
 -  🎤 2022 | Can you graph CAD?           | Design Computing and Cognition - Best Poster
 -  🎤 2022 | CAD Refactoring              | CAD Conference and Exhibition, Beijing
--  🎤 2022 | Does CAD smell like code?    | DESIGN Conference 2022, Croatia - Best Poster
+-  🎤 2022 | Does CAD smell like code?    | DESIGN Conference 2022, Croatia 
 -  🎤 2020 | Project Armenia              | Royal Geographical Society Micro Lectures
 -  🎤 2020 | Project Armenia              | OUEC - Oxford University Exploration Club
 -  🎤 2020 | Variability in CAD Modelling | CAD Conference and Exhibition, Barcellona
