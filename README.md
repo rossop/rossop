@@ -6,7 +6,7 @@ Hello! I'm Peter, an engineer, researcher, and coder passionate about solving co
 
 - 🎓 Postgraduate Researcher in Engineering Design, exploring innovative solutions and methodologies.
 - 💡 Developer of CAD refactoring techniques and a pioneer in characterising CAD smells, aiming to enhance design efficiency and maintainability.
-- 💻 Participant in the [Advent of Code](https://adventofcode.com/), where I challenge my coding skills and share solutions. See [some of my solutions](https://github.com/rossop/AdventOfCode)
+- 💻 Participant in the [Advent of Code](https://adventofcode.com/), where I challenge my coding skills and share solutions. See [some of my solutions](https://github.com/rossop/AdventOfCode).
 - 🛠️ Advocate for clean code and software architecture. I am a self-taught programmer who is always striving to improve my practices.
 - 📖 Enthusiast of non-fiction and fantasy literature with a keen interest in the intersections of storytelling, creativity, and technology.
 
