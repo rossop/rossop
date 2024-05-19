@@ -12,7 +12,7 @@ Hello! I'm Peter, an engineer, researcher, and coder passionate about solving co
 
 ## 🌟 Highlighted Projects
 
-- **[Advent of Code Solutions](https://github.com/rossop/AdventOfCode/)**: My journey through the Advent of Code, demonstrating my problem-solving approach and coding versatility.
+- **[Advent of Code Solutions](https://github.com/rossop/AdventOfCode/)**: This is my journey through the Advent of Code, which demonstrates my problem-solving approach and coding versatility.
 - **CAD Refactoring and Smells**: I've explored and documented CAD refactoring techniques I've developed, including a comprehensive analysis of CAD smells aimed at improving engineering design processes.
 - **Engineering Research Publications**: Links to my academic work, underscoring contributions to engineering design and software development practices.
 
@@ -32,7 +32,9 @@ I've contributed to various publications in engineering design, focusing on prac
 
 - GitHub: [rossop](https://www.github.com/rossop)
 - Email: [hi(at)peterrosso.com](mailto:hi(at)peterrosso.com)
+- LinkedIn: [in/peterrosso](https://www.linkedin.com/in/peterrosso/)
+- Website: [peterrosso.com](https://peterrosso.com/)
 
-I'm always keen to collaborate on projects or discuss technology, engineering, and the paths of innovation. Feel free to reach out for collaboration or conversation!
+I'm always keen to collaborate on projects or discuss technology, engineering, and innovation paths. Feel free to reach out for collaboration or conversation!
 
 
