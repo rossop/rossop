@@ -1,6 +1,6 @@
 # Welcome to Peter Rosso's GitHub 👋
 
-Hello! I'm Peter, an engineer, researcher, and coder passionate about solving complex problems, advancing engineering design, and embracing the challenges of continuous learning. My GitHub is a window into my journey, featuring projects spanning coding challenges, engineering innovations, and machine learning projects.
+Hello! I'm Peter, an engineer, researcher, and coder passionate about solving complex problems. I leverage design thinking and thorough research methodologies while embracing the challenges of continuous learning. My GitHub showcases my journey, featuring projects in coding challenges, engineering innovations, and machine learning.
 
 ## 🚀 About Me
 
