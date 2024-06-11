@@ -12,9 +12,10 @@ Hello! I'm Peter, an engineer, researcher, and coder passionate about solving co
 
 ## 🌟 Highlighted Projects
 
-- **[Advent of Code Solutions](https://github.com/rossop/AdventOfCode/)**: This is my journey through the Advent of Code, which demonstrates my problem-solving approach and coding versatility.
 - **CAD Refactoring and Smells**: I've explored and documented CAD refactoring techniques I've developed, including a comprehensive analysis of CAD smells aimed at improving engineering design processes.
-- **Engineering Research Publications**: Links to my academic work, underscoring contributions to engineering design and software development practices.
+- **[Advent of Code Solutions](https://github.com/rossop/AdventOfCode/)**: This is my journey through the Advent of Code, which demonstrates my problem-solving approach and coding versatility.
+- **[protoRAG](https://github.com/rossop/protoRAG/)**: A simple example of a prototype Retrieval Augmented Generation (RAG) system developed using Python, GPT, and LangChain to retrieve information from technical PDFs. The system enhances data accessibility by implementing text extraction, chunking, and vector-based retrieval, integrated with a Neo4j knowledge graph to improve retrieval accuracy and context.
+
 
 ## 📚 Publications
 
