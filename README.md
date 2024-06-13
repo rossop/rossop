@@ -22,14 +22,50 @@ Hello! I'm Peter, an engineer, researcher, and coder passionate about solving co
 I've contributed to various publications in engineering design, focusing on practical and theoretical advancements. For a detailed look at my research and publications, check out [my Google Scholar profile](https://scholar.google.co.uk/citations?user=eM_RGJcAAAAJ).
 
 ## Conferences, Presentations and Talks
-| Year | Title | Event |
-| ---- | ----- | ----- |
-| 2022 | 🎤 Can you graph CAD? | Design Computing and Cognition - Best Poster |
-| 2022 | 🎤 CAD Refactoring | CAD Conference and Exhibition, Beijing |
-| 2022 | 🎤 Does CAD smell like code? | DESIGN Conference 2022, Croatia |
-| 2020 | 🎤 Project Armenia | Royal Geographical Society Micro Lectures |
-| 2020 | 🎤 Project Armenia | OUEC - Oxford University Exploration Club |
-| 2020 | 🎤 Variability in CAD Modelling | CAD Conference and Exhibition, Barcelona |
+<div style="display: flex; justify-content: center;">
+  <table>
+    <thead>
+      <tr>
+        <th>Year</th>
+        <th>Title</th>
+        <th>Event</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>2022</td>
+        <td>🎤 Can you graph CAD?</td>
+        <td>Design Computing and Cognition - Best Poster</td>
+      </tr>
+      <tr>
+        <td>2022</td>
+        <td>🎤 CAD Refactoring</td>
+        <td>CAD Conference and Exhibition, Beijing</td>
+      </tr>
+      <tr>
+        <td>2022</td>
+        <td>🎤 Does CAD smell like code?</td>
+        <td>DESIGN Conference 2022, Croatia</td>
+      </tr>
+      <tr>
+        <td>2020</td>
+        <td>🎤 Project Armenia</td>
+        <td>Royal Geographical Society Micro Lectures</td>
+      </tr>
+      <tr>
+        <td>2020</td>
+        <td>🎤 Project Armenia</td>
+        <td>OUEC - Oxford University Exploration Club</td>
+      </tr>
+      <tr>
+        <td>2020</td>
+        <td>🎤 Variability in CAD Modelling</td>
+        <td>CAD Conference and Exhibition, Barcelona</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
 
 ## 📫 Get In Touch
 
