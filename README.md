@@ -18,6 +18,8 @@ Hello! I'm Peter, an engineer, researcher, and coder passionate about solving co
 - **[Data Scraper](https://github.com/rossop/data-scraper/)**: This project includes two main functionalities:
     - **PDF Scraper**: Automates the extraction of PDF files from specified URLs, organising them systematically in the user's Downloads directory. This tool is essential for collecting and managing research papers and other academic resources efficiently.
     - **Goodreads Scraper**: Extracts comprehensive book data from Goodreads, including ratings and anonimised reviews. Utilises Selenium to navigate through the website, ensuring thorough data collection even when reviews are paginated or hidden behind additional interactions. This tool will aid in performing detailed sentiment analysis and behavioural research on book reviews as they are scraped.
+> - **Goodreads Analysis Project**: Project is temporaly closed to make sure that data analysis complies with Goodreads _Terms and Conditions_.   
+
 
 ## 📚 Publications
 
