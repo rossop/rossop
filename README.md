@@ -1,9 +1,9 @@
 # Welcome to Peter Rosso's GitHub
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/peterrosso/)
-[![LeetCode user rossop](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Leetcode%20%E2%80%93%20Solved&query=solved&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Frossop&logo=leetcode&logoColor=yellow)](https://leetcode.com/rossop/)
-[![Peter Rosso's Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.co.uk/citations?user=eM_RGJcAAAAJ)
 [![Peter Rosso's Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://peterrosso.com/)
+[![Peter Rosso's Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.co.uk/citations?user=eM_RGJcAAAAJ)
+[![LeetCode user rossop](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Leetcode%20%E2%80%93%20Solved&query=solved&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Frossop&logo=leetcode&logoColor=yellow)](https://leetcode.com/rossop/)
 <!-- [![Peter Rosso's ORCID](https://img.shields.io/badge/orcid-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](orcid.org/0000-0002-2374-9490) -->
 
 
