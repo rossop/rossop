@@ -11,7 +11,7 @@ Hello! I'm Peter, an engineer, researcher, and coder passionate about solving co
 
 ## 🚀 About Me
 
-- 🎓 Postgraduate Researcher in Engineering Design, exploring innovative solutions and methodologies.
+- 💼 Lead Machine Learning / AI Engineer (MBI Health), building reliable LLM, RAG, and evaluation systems in production; PhD researcher in Engineering Design (thesis pending).
 - 💡 Developer of CAD refactoring techniques and a pioneer in characterising CAD smells, aiming to enhance design efficiency and maintainability.
 - 💻 Recently started woking on LeetCode problems. See [all of my solutions](https://github.com/rossop/LeetCode).
 - 🛠️ Advocate for clean code and software architecture. I am a self-taught programmer who is always striving to improve my practices.
@@ -28,19 +28,28 @@ Hello! I'm Peter, an engineer, researcher, and coder passionate about solving co
     - **Goodreads Scraper**: Extracts comprehensive book data from Goodreads, including ratings and anonimised reviews. Utilises Selenium to navigate through the website, ensuring thorough data collection even when reviews are paginated or hidden behind additional interactions. This tool will aid in performing detailed sentiment analysis and behavioural research on book reviews as they are scraped.
 > - **Goodreads Analysis Project**: Project is temporaly closed to make sure that data analysis complies with Goodreads _Terms and Conditions_.   
 
-##  🔨 Tools
+## 🔨 Tools
 ![](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=)
 
-![](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
-![](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
+![](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white)
+![](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
+![](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
 
+![](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![](https://img.shields.io/badge/Neo4j-4581C3?style=for-the-badge&logo=neo4j&logoColor=white)
+
+![](https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white)
 ![](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white)
+![](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
 ![](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 ![](https://img.shields.io/badge/Unraid-F15A2C?style=for-the-badge&logo=unraid&logoColor=white)
 ![](https://img.shields.io/badge/tmux-1BB91F?style=for-the-badge&logo=tmux&logoColor=white)
